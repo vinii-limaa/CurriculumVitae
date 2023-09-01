@@ -1,0 +1,65 @@
+body{
+    background-color: #3d4c53;
+}
+
+.perfil{
+    text-align: center;
+    color: azure;
+}
+
+nav{
+    color: azure;
+    font-size: 100%;
+}
+
+a{
+    color: azure;
+}
+
+a:hover[href="mailto:sergiovinicius@alunos.utfpr.edu.br"]{
+    color:mediumblue ;
+}
+
+#t1{
+    font-family: Arial, Helvetica, sans-serif;
+    text-decoration: underline dotted;
+    text-align: center;
+    color: azure;
+}
+
+#t2{
+    font-family: Arial, Helvetica, sans-serif;
+    background-color: #7d8c91;
+    font-weight: bold;
+    color: azure;
+}
+
+p{
+    color: whitesmoke;
+    font-family: Arial, Helvetica, sans-serif;
+    font-style: italic;
+    font-size: 100%;
+}
+
+dt{
+    font-family: Arial, Helvetica, sans-serif;
+    text-decoration: underline;
+}
+
+ol, ul, dl{
+    font-family: Arial, Helvetica, sans-serif;
+    color: whitesmoke;
+    font-size: 100%;
+}
+
+.ods{
+    font-family: Arial, Helvetica, sans-serif;
+    color: whitesmoke;
+    font-size: 100%;
+}
+
+footer{
+    text-align: center;
+    color: azure;
+    text-decoration: underline wavy;
+}
